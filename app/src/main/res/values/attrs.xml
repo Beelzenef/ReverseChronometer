@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ReverseChronometer">
+        <attr name="overallduration" format="integer"></attr>
+        <attr name="warningtime" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
